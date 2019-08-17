@@ -1,0 +1,52 @@
+body{
+	background-color:#ffe0f2;
+	
+}
+
+.heading{
+	background-color:#66500f;
+	text-align:center;
+	color:#ffffff;
+	font:bold 70px helvetica;
+}
+
+.center{
+   text-align:center;	
+}
+
+.topic{
+	background-color:#c9e649;
+	color:#ffffff;
+	font-size:40px;
+}
+
+.content{
+	text-indent:1cm;
+	font-size:25px;
+}
+
+li span {font-weight: bold;}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+	
